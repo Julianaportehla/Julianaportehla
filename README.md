@@ -16,8 +16,9 @@
 ### Hello, I'm Juliana Portela!! 👾
 
 I am a computer science student and programmer.
-- 🔭 I am currently working for an agricultural insurance company.
-- 🌱 I'm currently learning the programming languages C, Java, JavaScript, HTML, CSS.
+- 🔭 I currently work at the company F1rst Tecnologia of the Santander group.
+- 🔭 I work with the Low Code Pega System tool.
+- 🌱 I'm improving myself in the Java language, the language in which I currently work, but I have knowledge in Python, C, JavaScript, HTML and CSS languages.
 - 👯 I try to collaborate with software development projects.
 
 ### :hammer_and_wrench: Languages and Tools :
